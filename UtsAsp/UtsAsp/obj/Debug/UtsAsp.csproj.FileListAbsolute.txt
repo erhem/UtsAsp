@@ -1,0 +1,5 @@
+C:\Users\erhem\Documents\Visual Studio 2012\C#\Class C#\UtsAsp\UtsAsp\bin\UtsAsp.dll
+C:\Users\erhem\Documents\Visual Studio 2012\C#\Class C#\UtsAsp\UtsAsp\bin\UtsAsp.pdb
+C:\Users\erhem\Documents\Visual Studio 2012\C#\Class C#\UtsAsp\UtsAsp\obj\Debug\UtsAsp.csprojResolveAssemblyReference.cache
+C:\Users\erhem\Documents\Visual Studio 2012\C#\Class C#\UtsAsp\UtsAsp\obj\Debug\UtsAsp.dll
+C:\Users\erhem\Documents\Visual Studio 2012\C#\Class C#\UtsAsp\UtsAsp\obj\Debug\UtsAsp.pdb
